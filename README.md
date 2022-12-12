@@ -29,9 +29,18 @@ Download the file `futureDates.min.js`
 
 ```javascript
 $(document).ready(function(){
+    # example 1
     var futureDates = FutureDates();
     // open browser console to see results.
     console.log(futureDates);
+    
+    # example 1
+    var futureDates2 = FutureDates({
+                          dateFormat:'dd/mm/yyyy', 
+                          noOfFutureDates:25,
+                        });
+    // open browser console to see results.
+    console.log(futureDates2);
 });  
 ```
 

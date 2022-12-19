@@ -7,7 +7,7 @@ This is a basic Jquery plugin that might be helpful in your following use-cases.
 - you can set your desired date format.
 
 # Dependencies
-- Jquery ( v3.5 or greater)
+- Jquery ( v3.1 or greater)
 
 
 

@@ -52,6 +52,7 @@ $(document).ready(function(){
 | -------- | -----| ------------ | -----------
 | dateFormat  | string | `mm-dd-yyyy`  | `null`
 | noOfFutureDates  | string/integers | 28  | `null`
+| includeToday  | boolean(TRUE,FALSE,1,0) | false  | `null`
 
 ## DateFormat Options
 

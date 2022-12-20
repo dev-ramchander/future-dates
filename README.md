@@ -1,3 +1,6 @@
+| :warning: DISCLAIMER          |
+|:---------------------------|
+| This plugin is currently in testing phase. This might be not working in some use-cases. If you face any issue Please let us know, any kind of feedbac would be appreciated.      |
 
 # Future dates
 

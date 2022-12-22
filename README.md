@@ -53,7 +53,7 @@ $(document).ready(function(){
 
 | Property | Type | DefaultValue | Description
 | -------- | -----| ------------ | -----------
-| dateFormat  | string | `mm-dd-yyyy`  | `null`
+| dateFormat  | string | `mm/dd/yyyy`  | `null`
 | noOfFutureDates  | string/integers | 28  | `null`
 | includeToday  | boolean(TRUE,FALSE,1,0) | false  | `null`
 | endDate  | string, date format `mm/dd/yyy` | undefined  | `endDate` will override `noOfFutureDates`

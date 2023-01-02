@@ -57,6 +57,7 @@ $(document).ready(function(){
 | noOfFutureDates  | string/integers | 28  | `null`
 | includeToday  | boolean(TRUE,FALSE,1,0) | false  | `null`
 | endDate  | string, date format `mm/dd/yyy` | undefined  | `endDate` will override `noOfFutureDates`
+| startDate  | string, date format `mm/dd/yyy` | undefined  | `endDate` will override `noOfFutureDates`
 
 ## DateFormat Options
 
